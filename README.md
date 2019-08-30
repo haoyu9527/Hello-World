@@ -13,6 +13,6 @@
 
 ### 目錄
 
-- [（一）GitHub學習](ch01.md)
-- [（二）雜項工作物](ch02.md)
+- [（一）GitHub](ch01.md)
+- [（二）Google](ch02.md)
 - [（三）Python](ch03.md)
